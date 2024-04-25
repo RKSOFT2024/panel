@@ -38,10 +38,10 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "digitel",
+  "obfs": "rksoft",
   "auth": {
     "mode": "passwords",
-    "config": ["digitelsystem", "firenetdev"]
+    "config": ["rksoft", "rksoft"]
   }
 }
 ' >> /etc/hysteria/config.json
